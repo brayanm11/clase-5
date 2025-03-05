@@ -164,7 +164,9 @@ $D=\frac{2}{3}$
 
 
 ## 9. Ejercicios
-Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
+📚 Ejercicio #1
+
+$$ \frac{2x^{2}+4x+22}{x^{2}+2x+10}=\frac{as+b}{x^{2}+2x+10}=6$$
 
 
 
