@@ -208,6 +208,30 @@ $x^{2}+5x+10\to \frac{-6\frac{+}{}\sqrt{36-4(10)(1)}}{2}=\frac{-6\frac{+}{}\sqrt
 
 $\frac{-6\frac{+}{2i}}{2}\to -13\frac{+}{}i$
 
+$[\frac{(x^{2}+2x+5)(x-5)}{(x^{2}+2x+5)(x^{2}+6x+10)}=\frac{(x^{2}+2x+5)Ax+B}{(x^{2}+2x+5)}+\frac{(x^{2}+2x+5)Cx+D}{(x^{2}+6x+10)}]$
+
+$[\frac{x-5}{x^{2}+6x+10}],x=-1+2j  =[Ax+B],x=-1+2j ,x=-1+2j $
+
+$\frac{(-1+2j)+5}{(-1+2j)^{2}+6(-1+2j)+10}=A(-1+2j)+B$
+
+$\frac{2j+4}{1-4j+4j^{2}-6+12j+10}=-A+2Aj+B$
+
+$\frac{2j+4}{8j+1}=-A+2Aj+B$
+
+$\frac{2j+4}{1+8j}*\frac{1-8j}{1-8j}=\frac{2j+16+4-32j}{1+64}$
+
+$\frac{-30j+20}{65}=\frac{-30}{65}+\frac{20}{65}=-A+2Aj+B$
+
+$2Aj=\frac{-30j}{65}\to 2A=\frac{-30}{65}\to A=\frac{\frac{-30}{65}}{\frac{2}{1}}=\frac{-30}{130}$
+
+$$A=\frac{-3}{13}$$
+
+$\frac{20}{65}=-A+B,\frac{20}{65}=\frac{3}{13}+B$
+
+$B=\frac{20}{65}-\frac{3}{13}=\frac{260-195}{845}=\frac{65}{45}=\frac{5}{65}$
+
+$$B=\frac{1}{13}$$
+
 ## 10. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
