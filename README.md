@@ -192,6 +192,8 @@ $3Aj=0, A=0$
 
 $2=-A+B\mapsto B=2$
 
+$G(x)=\frac{As+B}{x^{2}+2x+10}\mapsto \frac{2}{x^{2}+2x+10}$
+
 
 
 ## 10. Conclusiones
