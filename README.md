@@ -232,6 +232,8 @@ $B=\frac{20}{65}-\frac{3}{13}=\frac{260-195}{845}=\frac{65}{45}=\frac{5}{65}$
 
 $$B=\frac{1}{13}$$
 
+Multiplicar todo por $(x^{2}+6x+10)$
+
 ## 10. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
