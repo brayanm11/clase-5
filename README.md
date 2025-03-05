@@ -170,6 +170,8 @@ $$ \frac{2x^{2}+4x+22}{x^{2}+2x+10}=\frac{as+b}{x^{2}+2x+10}=6$$
 
 $x=\frac{-b\frac{+}{}\sqrt{b^{2-4ac}}}{2a}=\frac{-2\frac{+}{}\sqrt{4-4(1)(10)}}{2(1)}$
 
+$=\frac{-2\frac{+}{}\sqrt{36}}{2}==\frac{-2\frac{+}{}\sqrt{36i}}{2}=\frac{-2\frac{+}{}6i}{2}=-1\frac{+}{}3i$
+
 
 
 ## 10. Conclusiones
