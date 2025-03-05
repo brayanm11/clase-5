@@ -234,6 +234,30 @@ $$B=\frac{1}{13}$$
 
 Multiplicar todo por $(x^{2}+6x+10)$
 
+$[\frac{(x-5)}{(x^{2}+2x+5)}=Cx+D],x=-3+j$
+
+$\frac{((-3+j)-5)}{(-3+j)^{2}+2(-3+j)+5}C(-3+j)+D$
+
+$\frac{-8+j}{9-6j-1-6+2j+5}=-3C+Cj+D$
+
+$\frac{-8+j}{-4j+7}=-3C+Cj+D$
+
+$\frac{-8+j}{7-4j}*\frac{7+4j}{7+4j}=\frac{-56-32j+7j-4}{49+16}$
+
+$\frac{-60-25j}{65}=-3C+Cj+D$
+
+$\frac{-60}{65}-\frac{25j}{65}=-3C+Cj+D$
+
+$Cj=\frac{-25j}{65}, C=\frac{-25}{65}=\frac{-5}{13}$
+
+$-3C+D=\frac{-60}{65},-3(\frac{-5}{13})+D=\frac{-60}{65}$
+
+$\frac{15}{13}+D=\frac{-60}{65},D=\frac{-60}{65}-\frac{15}{13}=\frac{-780-975}{845}$
+
+$\frac{-1755}{545}=\frac{-135}{65}=\frac{-27}{13}$
+
+$$G(x)=\frac{x(\frac{-3}{13})+\frac{1}{3}}{(x^{2}+2x+5)}+\frac{(\frac{-5}{13})x-\frac{27}{13}}{(x^{2}+6x+10)}$$
+
 ## 10. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
