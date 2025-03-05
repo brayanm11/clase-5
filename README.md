@@ -200,6 +200,14 @@ $G(s)=\frac{2}{x^{2}+2x+10}$
 
 $$\frac{x-5}{(x^{2}+2x+5)(x^{2}+6x+10)}=\frac{Ax+B}{(x^{2}+2x+5)}+\frac{Cx+D}{(x^{2}+6x+10)}$$
 
+$x^{2}+2x+5\to \frac{-2\frac{+}{}\sqrt{4-4(1)(5)}}{2}=\frac{-2\frac{+}{}\sqrt{4-20}}{2}$
+
+$\frac{-2\frac{+}{}\sqrt{-16}}{2}\to \frac{-2\frac{+}{}4i}{2}=-1\frac{+}{}2i$
+
+$x^{2}+5x+10\to \frac{-6\frac{+}{}\sqrt{36-4(10)(1)}}{2}=\frac{-6\frac{+}{}\sqrt{-4}}{2}$
+
+$\frac{-6\frac{+}{2i}}{2}\to -13\frac{+}{}i$
+
 ## 10. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
