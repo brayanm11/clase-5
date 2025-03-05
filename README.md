@@ -168,6 +168,8 @@ $D=\frac{2}{3}$
 
 $$ \frac{2x^{2}+4x+22}{x^{2}+2x+10}=\frac{as+b}{x^{2}+2x+10}=6$$
 
+$x^{2}+2x+10\to x=\frac{-b+-\sqrt{b^{2-4ac}}}{2a}=\frac{-2+-\sqrt{4-4(1)(10)}}{2(1)}$
+
 
 
 ## 10. Conclusiones
