@@ -196,6 +196,10 @@ $G(x)=\frac{As+B}{x^{2}+2x+10}\mapsto \frac{2}{x^{2}+2x+10}$
 
 $G(s)=\frac{2}{x^{2}+2x+10}$
 
+📚 Ejercicio #2
+
+$$\frac{x-5}{(x^{2}+2x+5)(x^{2}+6x+10)}=\frac{Ax+B}{(x^{2}+2x+5)}+\frac{Cx+D}{(x^{2}+6x+10)}$$
+
 ## 10. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
